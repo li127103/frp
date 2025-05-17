@@ -40,6 +40,7 @@ require (
 	github.com/prometheus/common v0.62.0 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/quic-go/quic-go v0.51.0 // indirect
+	github.com/rodaine/table v1.3.0 // indirect
 	github.com/samber/lo v1.50.0 // indirect
 	github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8 // indirect
 	github.com/spf13/cobra v1.9.1 // indirect
