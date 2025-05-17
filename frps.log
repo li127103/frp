@@ -1,0 +1,117 @@
+2025-05-15 23:03:07.002 [I] [frps/root.go:89] frps uses config file: ./conf/frps_full_example.toml
+2025-05-15 23:03:07.314 [I] [server/service.go:177] plugin [user-manager] has been registered
+2025-05-15 23:03:07.314 [I] [server/service.go:177] plugin [port-manager] has been registered
+2025-05-15 23:03:07.315 [I] [server/service.go:221] frps tcp listen on 0.0.0.0:7000
+2025-05-15 23:03:07.315 [I] [server/service.go:230] frps kcp listen on udp 0.0.0.0:7000
+2025-05-15 23:03:46.310 [I] [frps/root.go:89] frps uses config file: ./conf/frps_full_example.toml
+2025-05-15 23:03:47.541 [I] [server/service.go:221] frps tcp listen on 0.0.0.0:7000
+2025-05-15 23:03:47.541 [I] [server/service.go:230] frps kcp listen on udp 0.0.0.0:7000
+2025-05-15 23:03:47.542 [I] [server/service.go:289] http service listen on 0.0.0.0:8080
+2025-05-15 23:03:58.132 [I] [frps/root.go:89] frps uses config file: ./conf/frps_full_example.toml
+2025-05-15 23:03:58.862 [I] [server/service.go:221] frps tcp listen on 0.0.0.0:7000
+2025-05-15 23:03:58.862 [I] [server/service.go:230] frps kcp listen on udp 0.0.0.0:7000
+2025-05-15 23:05:00.056 [I] [frps/root.go:89] frps uses config file: ./conf/frps_full_example.toml
+2025-05-15 23:05:00.300 [I] [server/service.go:221] frps tcp listen on 0.0.0.0:7000
+2025-05-15 23:05:00.300 [I] [server/service.go:230] frps kcp listen on udp 0.0.0.0:7000
+2025-05-15 23:05:00.301 [I] [server/service.go:289] http service listen on 0.0.0.0:8080
+2025-05-15 23:05:00.301 [I] [server/service.go:303] https service listen on 0.0.0.0:4430
+2025-05-15 23:05:00.301 [I] [frps/root.go:98] frps started successfully
+2025-05-15 23:05:00.301 [I] [server/service.go:335] dashboard listen on 127.0.0.1:7500
+2025-05-15 23:09:43.605 [I] [frps/root.go:89] frps uses config file: ./conf/frps_full_example.toml
+2025-05-15 23:09:44.242 [I] [server/service.go:221] frps tcp listen on 0.0.0.0:7000
+2025-05-15 23:09:44.242 [I] [server/service.go:230] frps kcp listen on udp 0.0.0.0:7000
+2025-05-15 23:09:44.242 [I] [server/service.go:289] http service listen on 0.0.0.0:8080
+2025-05-15 23:09:44.242 [I] [server/service.go:303] https service listen on 0.0.0.0:4430
+2025-05-15 23:09:44.242 [I] [frps/root.go:98] frps started successfully
+2025-05-15 23:09:44.242 [I] [server/service.go:335] dashboard listen on 127.0.0.1:7500
+2025-05-15 23:10:15.656 [I] [frps/root.go:89] frps uses config file: ./conf/frps_full_example.toml
+2025-05-15 23:10:16.501 [I] [server/service.go:221] frps tcp listen on 0.0.0.0:7000
+2025-05-15 23:10:16.501 [I] [server/service.go:230] frps kcp listen on udp 0.0.0.0:7000
+2025-05-15 23:10:16.501 [I] [server/service.go:289] http service listen on 0.0.0.0:8080
+2025-05-15 23:10:16.501 [I] [server/service.go:303] https service listen on 0.0.0.0:4430
+2025-05-15 23:10:16.501 [I] [frps/root.go:98] frps started successfully
+2025-05-15 23:10:16.501 [I] [server/service.go:335] dashboard listen on 127.0.0.1:7500
+2025-05-15 23:10:48.007 [I] [frps/root.go:89] frps uses config file: ./conf/frps_full_example.toml
+2025-05-15 23:10:49.287 [I] [server/service.go:221] frps tcp listen on 0.0.0.0:7000
+2025-05-15 23:10:49.287 [I] [server/service.go:230] frps kcp listen on udp 0.0.0.0:7000
+2025-05-15 23:10:49.287 [I] [server/service.go:289] http service listen on 0.0.0.0:8080
+2025-05-15 23:10:49.287 [I] [server/service.go:303] https service listen on 0.0.0.0:4430
+2025-05-15 23:10:49.287 [I] [frps/root.go:98] frps started successfully
+2025-05-15 23:10:49.287 [I] [server/service.go:335] dashboard listen on 127.0.0.1:7500
+2025-05-15 23:14:20.166 [I] [frps/root.go:89] frps uses config file: ./conf/frps_full_example.toml
+2025-05-15 23:14:20.621 [I] [server/service.go:221] frps tcp listen on 0.0.0.0:7000
+2025-05-15 23:14:20.622 [I] [server/service.go:230] frps kcp listen on udp 0.0.0.0:7000
+2025-05-15 23:14:20.622 [I] [server/service.go:289] http service listen on 0.0.0.0:8080
+2025-05-15 23:14:20.622 [I] [server/service.go:303] https service listen on 0.0.0.0:4430
+2025-05-15 23:14:20.622 [I] [frps/root.go:98] frps started successfully
+2025-05-15 23:14:20.622 [I] [server/service.go:335] dashboard listen on 127.0.0.1:7500
+2025-05-15 23:16:36.103 [I] [frps/root.go:89] frps uses config file: ./conf/frps_full_example.toml
+2025-05-15 23:17:17.902 [I] [frps/root.go:89] frps uses config file: ./conf/frps_full_example.toml
+2025-05-15 23:17:18.631 [I] [server/service.go:221] frps tcp listen on 0.0.0.0:7000
+2025-05-15 23:17:18.631 [I] [server/service.go:230] frps kcp listen on udp 0.0.0.0:7000
+2025-05-15 23:17:18.631 [I] [server/service.go:289] http service listen on 0.0.0.0:8080
+2025-05-15 23:17:18.631 [I] [server/service.go:303] https service listen on 0.0.0.0:4430
+2025-05-15 23:17:18.632 [I] [frps/root.go:98] frps started successfully
+2025-05-15 23:17:18.632 [I] [server/service.go:335] dashboard listen on 127.0.0.1:7500
+2025-05-15 23:17:24.911 [I] [frps/root.go:89] frps uses config file: ./conf/frps_full_example.toml
+2025-05-15 23:17:25.123 [I] [server/service.go:221] frps tcp listen on 0.0.0.0:7000
+2025-05-15 23:17:25.123 [I] [server/service.go:230] frps kcp listen on udp 0.0.0.0:7000
+2025-05-15 23:17:25.123 [I] [server/service.go:289] http service listen on 0.0.0.0:8080
+2025-05-15 23:17:25.123 [I] [server/service.go:303] https service listen on 0.0.0.0:4430
+2025-05-15 23:17:25.123 [I] [frps/root.go:98] frps started successfully
+2025-05-15 23:17:25.123 [I] [server/service.go:335] dashboard listen on 127.0.0.1:7500
+2025-05-15 23:19:17.545 [I] [frps/root.go:89] frps uses config file: ./conf/frps_full_example.toml
+2025-05-15 23:19:18.211 [I] [server/service.go:221] frps tcp listen on 0.0.0.0:7000
+2025-05-15 23:19:18.211 [I] [server/service.go:230] frps kcp listen on udp 0.0.0.0:7000
+2025-05-15 23:19:18.211 [I] [server/service.go:289] http service listen on 0.0.0.0:8080
+2025-05-15 23:19:18.211 [I] [server/service.go:303] https service listen on 0.0.0.0:4430
+2025-05-15 23:19:18.211 [I] [frps/root.go:98] frps started successfully
+2025-05-15 23:19:18.211 [I] [server/service.go:335] dashboard listen on 127.0.0.1:7500
+2025-05-15 23:23:09.898 [I] [frps/root.go:89] frps uses config file: ./conf/frps_full_example.toml
+2025-05-15 23:23:10.390 [I] [server/service.go:221] frps tcp listen on 0.0.0.0:7000
+2025-05-15 23:23:10.391 [I] [server/service.go:230] frps kcp listen on udp 0.0.0.0:7000
+2025-05-15 23:23:10.391 [I] [server/service.go:289] http service listen on 0.0.0.0:8080
+2025-05-15 23:23:10.391 [I] [server/service.go:303] https service listen on 0.0.0.0:4430
+2025-05-15 23:23:10.391 [I] [frps/root.go:98] frps started successfully
+2025-05-15 23:23:10.391 [I] [server/service.go:335] dashboard listen on 127.0.0.1:7500
+2025-05-15 23:23:13.560 [I] [server/dashboard_api.go:91] http request: [/api/serverinfo]
+2025-05-15 23:23:13.560 [I] [server/dashboard_api.go:84] http response [/api/serverinfo]: code [200]
+2025-05-15 23:23:13.561 [I] [server/dashboard_api.go:91] http request: [/api/serverinfo]
+2025-05-15 23:23:13.561 [I] [server/dashboard_api.go:84] http response [/api/serverinfo]: code [200]
+2025-05-15 23:23:13.561 [I] [server/dashboard_api.go:91] http request: [/api/serverinfo]
+2025-05-15 23:23:13.561 [I] [server/dashboard_api.go:84] http response [/api/serverinfo]: code [200]
+2025-05-15 23:24:46.684 [I] [server/dashboard_api.go:91] http request: [/api/serverinfo]
+2025-05-15 23:25:58.116 [I] [server/dashboard_api.go:84] http response [/api/serverinfo]: code [200]
+2025-05-15 23:26:03.074 [I] [frps/root.go:89] frps uses config file: ./conf/frps_full_example.toml
+2025-05-15 23:26:04.847 [I] [server/service.go:221] frps tcp listen on 0.0.0.0:7000
+2025-05-15 23:26:04.847 [I] [server/service.go:230] frps kcp listen on udp 0.0.0.0:7000
+2025-05-15 23:26:04.847 [I] [server/service.go:289] http service listen on 0.0.0.0:8080
+2025-05-15 23:26:04.847 [I] [server/service.go:303] https service listen on 0.0.0.0:4430
+2025-05-15 23:26:04.847 [I] [frps/root.go:98] frps started successfully
+2025-05-15 23:26:04.847 [I] [server/service.go:335] dashboard listen on 127.0.0.1:7500
+2025-05-15 23:26:09.475 [I] [server/dashboard_api.go:91] http request: [/api/serverinfo]
+2025-05-15 23:26:14.855 [I] [server/dashboard_api.go:84] http response [/api/serverinfo]: code [200]
+2025-05-15 23:26:22.805 [I] [server/dashboard_api.go:211] http request: [/api/proxy/tcp]
+2025-05-15 23:26:22.806 [I] [server/dashboard_api.go:205] http response [/api/proxy/tcp]: code [200]
+2025-05-15 23:26:27.246 [I] [server/dashboard_api.go:211] http request: [/api/proxy/udp]
+2025-05-15 23:26:27.246 [I] [server/dashboard_api.go:205] http response [/api/proxy/udp]: code [200]
+2025-05-15 23:26:30.856 [I] [server/dashboard_api.go:211] http request: [/api/proxy/tcp]
+2025-05-15 23:26:30.856 [I] [server/dashboard_api.go:205] http response [/api/proxy/tcp]: code [200]
+2025-05-15 23:26:35.653 [I] [server/dashboard_api.go:211] http request: [/api/proxy/udp]
+2025-05-15 23:26:35.653 [I] [server/dashboard_api.go:205] http response [/api/proxy/udp]: code [200]
+2025-05-15 23:26:36.228 [I] [server/dashboard_api.go:91] http request: [/api/serverinfo]
+2025-05-15 23:26:36.228 [I] [server/dashboard_api.go:84] http response [/api/serverinfo]: code [200]
+2025-05-15 23:26:36.237 [I] [server/dashboard_api.go:211] http request: [/api/proxy/http]
+2025-05-15 23:26:36.237 [I] [server/dashboard_api.go:205] http response [/api/proxy/http]: code [200]
+2025-05-15 23:26:36.952 [I] [server/dashboard_api.go:91] http request: [/api/serverinfo]
+2025-05-15 23:26:36.953 [I] [server/dashboard_api.go:84] http response [/api/serverinfo]: code [200]
+2025-05-15 23:26:36.960 [I] [server/dashboard_api.go:211] http request: [/api/proxy/https]
+2025-05-15 23:26:36.961 [I] [server/dashboard_api.go:205] http response [/api/proxy/https]: code [200]
+2025-05-15 23:26:37.686 [I] [server/dashboard_api.go:91] http request: [/api/serverinfo]
+2025-05-15 23:26:37.686 [I] [server/dashboard_api.go:84] http response [/api/serverinfo]: code [200]
+2025-05-15 23:26:37.692 [I] [server/dashboard_api.go:211] http request: [/api/proxy/tcpmux]
+2025-05-15 23:26:37.692 [I] [server/dashboard_api.go:205] http response [/api/proxy/tcpmux]: code [200]
+2025-05-15 23:26:38.166 [I] [server/dashboard_api.go:211] http request: [/api/proxy/stcp]
+2025-05-15 23:26:38.166 [I] [server/dashboard_api.go:205] http response [/api/proxy/stcp]: code [200]
+2025-05-15 23:26:38.641 [I] [server/dashboard_api.go:211] http request: [/api/proxy/sudp]
+2025-05-15 23:26:38.641 [I] [server/dashboard_api.go:205] http response [/api/proxy/sudp]: code [200]
